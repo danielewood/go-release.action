@@ -1,4 +1,4 @@
-FROM golang:latest-alpine
+FROM golang:latest
 MAINTAINER Atsushi Nagase <a@ngs.io> (https://ngs.io)
 
 LABEL "com.github.actions.name"="Go Release Binary"
